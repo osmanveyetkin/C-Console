@@ -1,0 +1,14 @@
+/Users/osmanyetkin/Desktop/Dersler ve Notlar/c# konsol ödev 3/bin/Debug/net8.0/c# konsol ödev 3
+/Users/osmanyetkin/Desktop/Dersler ve Notlar/c# konsol ödev 3/bin/Debug/net8.0/c# konsol ödev 3.deps.json
+/Users/osmanyetkin/Desktop/Dersler ve Notlar/c# konsol ödev 3/bin/Debug/net8.0/c# konsol ödev 3.runtimeconfig.json
+/Users/osmanyetkin/Desktop/Dersler ve Notlar/c# konsol ödev 3/bin/Debug/net8.0/c# konsol ödev 3.dll
+/Users/osmanyetkin/Desktop/Dersler ve Notlar/c# konsol ödev 3/bin/Debug/net8.0/c# konsol ödev 3.pdb
+/Users/osmanyetkin/Desktop/Dersler ve Notlar/c# konsol ödev 3/obj/Debug/net8.0/c# konsol ödev 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanyetkin/Desktop/Dersler ve Notlar/c# konsol ödev 3/obj/Debug/net8.0/c# konsol ödev 3.AssemblyInfoInputs.cache
+/Users/osmanyetkin/Desktop/Dersler ve Notlar/c# konsol ödev 3/obj/Debug/net8.0/c# konsol ödev 3.AssemblyInfo.cs
+/Users/osmanyetkin/Desktop/Dersler ve Notlar/c# konsol ödev 3/obj/Debug/net8.0/c# konsol ödev 3.csproj.CoreCompileInputs.cache
+/Users/osmanyetkin/Desktop/Dersler ve Notlar/c# konsol ödev 3/obj/Debug/net8.0/c# konsol ödev 3.dll
+/Users/osmanyetkin/Desktop/Dersler ve Notlar/c# konsol ödev 3/obj/Debug/net8.0/refint/c# konsol ödev 3.dll
+/Users/osmanyetkin/Desktop/Dersler ve Notlar/c# konsol ödev 3/obj/Debug/net8.0/c# konsol ödev 3.pdb
+/Users/osmanyetkin/Desktop/Dersler ve Notlar/c# konsol ödev 3/obj/Debug/net8.0/c# konsol ödev 3.genruntimeconfig.cache
+/Users/osmanyetkin/Desktop/Dersler ve Notlar/c# konsol ödev 3/obj/Debug/net8.0/ref/c# konsol ödev 3.dll

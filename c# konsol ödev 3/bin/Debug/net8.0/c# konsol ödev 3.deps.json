@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "c# konsol ödev 3/1.0.0": {
+        "runtime": {
+          "c# konsol ödev 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c# konsol ödev 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
